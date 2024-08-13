@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: amyzhangyuhui.github.io/cv/
+permalink: https://amyzhangyuhui.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
