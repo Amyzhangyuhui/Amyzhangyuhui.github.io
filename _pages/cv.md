@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: amyzhangyuhui.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% https://amyzhangyuhui.github.io/ %}
+{% /amyzhangyuhui.github.io/ %}
 
 Education
 ======
